@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
--Features
+- Features
 Fast Search: Optimized algorithms for quick search results.
 Accurate Results: Relevance-based ranking for more accurate outcomes.
 User-Friendly Interface: Simple and intuitive design for ease of use.
